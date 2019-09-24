@@ -45,7 +45,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "bip38": "^1.4.0",
-    "bitcore-lib": "^0.13.14",
+    "bitcore-lib": "^0.16.0",
     "bitcore-mnemonic": "~1.0.0",
     "byteballcore": "git+https://github.com/byteball/byteballcore.git",
     "grunt": "^1.0.1",
